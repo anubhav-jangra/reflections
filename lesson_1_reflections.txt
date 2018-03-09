@@ -28,4 +28,3 @@ Ques -> Now that you have your workspace set up, what do you want to try using G
 Answer -> Don't know, but yah i have a project in mind right now
 and i am eager to use version control on it ASAP.....
 
-Ques -> 
